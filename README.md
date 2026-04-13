@@ -1,7 +1,7 @@
 # 🏥 Sistema Clínico (Laravel)
 
 <p align="center">
-  <img src="public/images/clinic_logo.png" alt="Logo Sistema Clínico" width="200">
+
 </p>
 
 <p align="center">
